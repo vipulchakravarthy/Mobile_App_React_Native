@@ -20,7 +20,7 @@ class App extends React.Component {
   }
 
   addTodo() {
-    const text = prompt("TODO text please!")
+    const text = prompt("TODO text!")
     this.setState({
       todos: [
         ...this.state.todos,
