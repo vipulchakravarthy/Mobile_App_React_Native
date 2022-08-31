@@ -16,7 +16,7 @@
     "gapi": "0.0.3",
     "glamorous-native": "^2.0.0",
     "googleapis": "^39.2.0",
-    "moment-timezone": "^0.5.27",
+    "moment-timezone": "^0.5.35",
     "react": "16.9.0",
     "react-dom": "~16.9.0",
     "react-google-calendar-api": "^1.0.11",
